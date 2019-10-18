@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theiviune.prismaticbytes.com/sitemap.xml
